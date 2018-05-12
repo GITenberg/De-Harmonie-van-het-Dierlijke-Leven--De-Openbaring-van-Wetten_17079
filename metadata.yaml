@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7123
     wikipedia: http://nl.wikipedia.org/wiki/Franciscus_Cornelis_Donders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17079#De-Harmonie-van-het-Dierlijke-Leven--De-Openbaring-van-Wetten
 gutenberg_issued: '2005-11-16'
 gutenberg_type: Text
 identifiers:
