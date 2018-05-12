@@ -1,0 +1,28 @@
+_repo: De-Harmonie-van-het-Dierlijke-Leven--De-Openbaring-van-Wetten_17079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Donders, F. C. (Franciscus Cornelis)
+    alias: Donders, Franciscus Cornelis
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '7123'
+    url: http://www.gutenberg.org/2009/agents/7123
+    wikipedia: http://nl.wikipedia.org/wiki/Franciscus_Cornelis_Donders
+description: ''
+gutenberg_issued: '2005-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17079'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Physiology'
+title: 'De Harmonie van het Dierlijke Leven: De Openbaring van Wetten'
+url: http://www.gutenberg.org/ebooks/17079
